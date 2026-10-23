@@ -2,8 +2,6 @@
 
 HealthTwin is a research-grade preventive healthcare prototype that combines an explainable AI digital twin, multi-disease risk prediction, lifestyle counterfactual simulation, and blockchain-anchored evidence integrity.
 
-The project is designed for IEEE/Springer papers, final-year demonstrations, hackathons, and investor-facing technical demos.
-
 ## Research Hypothesis
 
 A continuously updated AI digital twin trained on population-scale epidemiological data can estimate multi-disease risk trajectories, explain them with SHAP, simulate lifestyle interventions, and anchor medical evidence plus AI predictions with blockchain hashes.
